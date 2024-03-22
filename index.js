@@ -27,4 +27,3 @@ else {
     console.log("Please select valid operator");
 }
 ;
-console.log('END');
